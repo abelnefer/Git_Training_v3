@@ -1,4 +1,4 @@
-This is a GH CLI based connection
+This is a GH CLI based connection. 2nd test
 
 This is a test file. The first one.
 
